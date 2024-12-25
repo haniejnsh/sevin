@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "farsi-yekan";
+  src: url("./fonts/Yekan.ttf");
+}
+
+body{
+  font-family:"farsi-yekan";
+}
+
